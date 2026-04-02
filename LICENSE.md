@@ -1,6 +1,6 @@
 # RED-TEAM-AGENT LICENSE v1.0
 
-Copyright (c) 2026, \<TU\_NOMBRE\_O\_ALIAS\>
+Copyright (c) 2026, DevYHB
 
 ---
 
